@@ -1,5 +1,10 @@
 # Prerequisites
 *.d
+templates/
+
+# Build Artifacts
+bin/
+lib/
 
 # Object files
 *.o
