@@ -1,0 +1,70 @@
+[21037:21462] Exploring Path: 0 
+[21037:21462] Exploring Path: 0 1 
+[21037:21462] Exploring Path: 0 1 4 
+[21037:21462] Exploring Path: 0 1 4 1 
+[21462:21463] Exploring Path: 0 1 4 7 
+[21037:21462] Exploring Path: 0 1 4 1 0 
+[21037:21462] Exploring Path: 0 1 4 1 0 3 
+[21037:21462] Exploring Path: 0 1 4 1 0 3 4 
+[21037:21462] Exploring Path: 0 1 4 1 0 3 4 1 
+[21462:21463] Exploring Path: 0 1 4 7 6 
+[21462:21463] Exploring Path: 0 1 4 7 6 3 
+[21462:21463] Exploring Path: 0 1 4 7 6 3 4 
+[21462:21466] Exploring Path: 0 1 4 1 0 3 4 7 
+[21037:21462] Exploring Path: 0 1 4 1 0 3 4 1 0 
+[21037:21462] Exploring Path: 0 1 4 1 0 3 4 1 0 3 
+[21462:21463] Exploring Path: 0 1 4 7 6 3 4 1 
+[21462:21466] Exploring Path: 0 1 4 1 0 3 4 7 6 
+[21462:21466] Exploring Path: 0 1 4 1 0 3 4 7 6 3 
+[21462:21466] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 
+[21462:21466] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 
+[21462:21466] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 
+[21462:21466] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 3 
+Failed at path: 0 1 4 1 0 3 4 7 6 3 0 1 4 3 0 
+[21037:21462] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 
+[21037:21462] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 
+[21037:21462] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 
+[21037:21462] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 3 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 0 1 4 3 0 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 0 1 4 3 6 
+[21462:21473] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 
+[21462:21473] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 
+[21462:21473] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 
+[21466:21471] Exploring Path: 0 1 4 1 0 3 4 7 6 3 0 1 4 5 
+Failed at path: 0 1 4 1 0 3 4 7 6 3 0 1 4 5 2 
+[21462:21464] Exploring Path: 0 1 4 1 2 
+[21462:21464] Exploring Path: 0 1 4 1 2 5 
+[21462:21464] Exploring Path: 0 1 4 1 2 5 4 
+Failed at path: 0 1 4 1 0 3 4 7 6 3 0 1 4 3 6 
+[21462:21464] Exploring Path: 0 1 4 1 2 5 4 1 
+[21462:21464] Exploring Path: 0 1 4 1 2 5 4 1 0 
+[21462:21464] Exploring Path: 0 1 4 1 2 5 4 1 0 3 
+[21462:21474] Exploring Path: 0 1 4 1 0 3 4 1 0 3 0 1 4 5 
+[21462:21464] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 
+[21462:21464] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 
+[21462:21464] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 0 1 4 5 2 
+[21462:21464] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 3 
+Failed at path: 0 1 4 1 2 5 4 1 0 3 0 1 4 3 0 
+[1554:21473] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 3 
+[1554:21463] Exploring Path: 0 1 4 7 6 3 4 1 0 
+[1554:21463] Exploring Path: 0 1 4 7 6 3 4 1 0 3 
+Accepted! Followed path: 0 1 4 1 0 3 4 1 0 3 0 1 4 5 8 
+[1554:21470] Exploring Path: 0 1 4 1 0 3 4 7 6 3 6 
+[1554:21463] Exploring Path: 0 1 4 7 6 3 4 1 0 3 0 
+[1554:21477] Exploring Path: 0 1 4 1 2 5 4 7 
+[1554:21465] Exploring Path: 0 1 4 7 8 
+[1554:21469] Exploring Path: 0 1 4 1 0 3 4 7 8 
+Failed at path: 0 1 4 1 2 5 4 1 0 3 0 1 4 3 6 
+[1554:21468] Exploring Path: 0 1 4 7 6 3 4 7 
+[1554:21485] Exploring Path: 0 1 4 7 6 3 4 1 0 3 6 
+[1554:21479] Exploring Path: 0 1 4 1 2 5 4 1 0 3 6 
+[1554:21467] Exploring Path: 0 1 4 1 0 3 4 1 2 
+Accepted! Followed path: 0 1 4 1 0 3 4 7 6 3 0 1 4 5 8 
+[1554:21484] Exploring Path: 0 1 4 7 6 3 4 1 2 
+[21473:21483] Exploring Path: 0 1 4 1 0 3 4 1 0 3 6 7 4 5 
+[1554:21478] Exploring Path: 0 1 4 1 2 5 4 1 2 
+[1554:21481] Exploring Path: 0 1 4 1 2 5 4 1 0 3 0 1 4 5 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 6 7 4 3 0 
+Failed at path: 0 1 4 1 0 3 4 1 0 3 6 7 4 3 6 
+Destroyed Block: shm.bin
