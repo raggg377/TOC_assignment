@@ -10,7 +10,7 @@ OBJ := $(SRC:$(SRC_DIR)/%.c=$(OBJ_DIR)/%.o)
 
 CC       = gcc
 CFLAGS 	 = -Wall -g
-LDLIBS   = -pthread
+LDLIBS   = -pthread -lm
 
 .PHONY: all clean
 
